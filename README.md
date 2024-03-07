@@ -1,4 +1,4 @@
-# TILs
+# Today I Learned (TIL)
 This repository is where I post my daily "TIL" ("Today I Learned"), as a personal way to track my learning path. It reflects an ongoing process, showcasing the incremental steps I take in expanding my knowledge and skills.
 
 The entries also act as a "warning system" for myself. If there's a noticeable gap in entries, it serves as a red flag, reminding me to actively seek new knowledge and stay engaged in continuous learning.
